@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="./.github/proffy.png" alt="Proffy" width="300"/></h1>
+<h1 align="center"><img src="./.github/proffy.png" alt="Proffy" width="500"/></h1>
 <h2 align="center">Project made to connect teachers to students, made in Next Level Week #2 #NLW @Rocketseat</h2> 
 
 
