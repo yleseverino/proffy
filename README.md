@@ -70,7 +70,7 @@ $ yarn knex:migrate
 >The above command is a custom command made on `package.json` file. (Ln 8, Col 5)
 
 
-This project use third party dependencies that need to be installed, use that command to install all needed dependencies
+This project use third party dependencies that need to be installed, use that command to install all needed dependencies and start
 
 ```shell
 # Entering in web directory
