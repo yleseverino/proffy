@@ -45,7 +45,7 @@ $ cd web
 # Installing depencies
 $ yarn install
 
-# start front-end in dev mode
+# Start front-end in dev mode
 $ yarn start
 ```
 
@@ -76,8 +76,11 @@ This project use third party dependencies that need to be installed, use that co
 # Entering in web directory
 $ cd server
 
-# start back-end API
+# Install depencies
 $ yarn install
+
+# Start back-end API
+$ yarn start
 ```
 
 
